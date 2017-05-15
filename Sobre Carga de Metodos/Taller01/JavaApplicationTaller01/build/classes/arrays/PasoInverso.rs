@@ -1,0 +1,2 @@
+arrays.Inverso
+arrays.PasoInverso

@@ -1,0 +1,2 @@
+arrays.Inventario
+arrays.Kardex
